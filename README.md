@@ -1,2 +1,2 @@
 # CircleProgressView
- 基于POP，圆形进度动画
+ 基于POP实现的一款圆形进度动画
